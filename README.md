@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/10GUxxoPCMRn61z5eZwQilkyhNHYNuIa3](https://drive.google.com/drive/folders/10GUxxoPCMRn61z5eZwQilkyhNHYNuIa3)
 
-- ⚡ Fun fact **I'm interested in arts and stuff**
+- ⚡ Fun fact **I'm interested in photpgraphy and content creation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
