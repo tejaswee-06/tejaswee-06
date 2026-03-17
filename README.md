@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejaswee Rajput</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">I am an engineering student exploring tech and data</h3>
 
 - 🔭 I’m currently working on **Solarbot**
 
