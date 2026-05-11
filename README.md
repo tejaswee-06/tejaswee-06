@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BE EXTC Student at TSEC, Mumbai
+- 🎓 Engineering Student at TSEC, Mumbai
 - 💻 Focused on **Full Stack Development, AI/ML, and System Design**
 - 🌱 Currently learning **DevOps, DSA, and Cloud Technologies**
 - 🤝 Open to collaborating on impactful software projects
