@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejaswee Rajput</h1>
-<h3 align="center">Software Developer • AI/ML Explorer • EXTC Engineer</h3>
+<h3 align="center">Software Developer • AI/ML ENGINEER • EXTC STUDENT</h3>
 
 <p align="center">
   Building scalable software, exploring AI systems, and solving real-world problems through code.
