@@ -106,6 +106,6 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 <h3 align="center">
 
-💙 <i>"Building intelligent solutions that create real-world impact."</i>
+💙 <i>"keep calm and put the kettle on..."</i>
 
 </h3>
